@@ -1,0 +1,22 @@
+{ 
+    "brand_name": "Tokai",
+    "brand_logo_url": "/static/assets/logo.svg", 
+    "navbar_items":[
+        {
+            "navbar_item_title": "Bulbs", 
+            "navbar_item_url": "bulbs"
+        }, 
+        {
+            "navbar_item_title": "Horns", 
+            "navbar_item_url": "horns"
+        }, 
+        {
+            "navbar_item_title": "Beacon Lights", 
+            "navbar_item_url": "beacon-lights"
+        }, 
+        {
+            "navbar_item_title": "Others", 
+            "navbar_item_url": "others"
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{ "footer_items": [
+    { 
+        "footer_item_title":"Home", 
+        "footer_item_url":"#"
+    },
+    { 
+        "footer_item_title":"About", 
+        "footer_item_url":"About"
+    },
+    { 
+        "footer_item_title":"Bulbs", 
+        "footer_item_url":"bulbs"
+    }, 
+    { 
+        "footer_item_title":"Horns", 
+        "footer_item_url":"horns"
+    }, 
+    { 
+        "footer_item_title":"Warning Lights", 
+        "footer_item_url":"warning-lights"
+    }, 
+    { 
+        "footer_item_title":"Others", 
+        "footer_item_url":"others"
+    }
+]}
