@@ -22,5 +22,9 @@
     { 
         "footer_item_title":"Others", 
         "footer_item_url":"others"
+    }, 
+    { 
+        "footer_item_title":"Products", 
+        "footer_item_url":"products"
     }
 ]}
