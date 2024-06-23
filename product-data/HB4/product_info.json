@@ -1,11 +1,22 @@
+
 {
-    "product_name":"HB4", 
     "product_url":"hb4", 
     "product_type":"bulbs",
-    "product_description":"", 
-    "product_specification":[ 
-        {
-            
-        }
-    ]
+    "id": { 
+        "product_name":"HB4 Bulb", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "", 
+                "component_value": ""
+            }
+        ]
+    }, 
+    "en": {
+
+
+
+
+
+    } 
 }

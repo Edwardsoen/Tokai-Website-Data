@@ -1,10 +1,10 @@
 
 {
-    "product_url":"h3", 
-    "product_type":"bulbs",
+    "product_url":"3-sound-backup-horn", 
+    "product_type":"horns",
     "id": { 
-        "product_name":"H3 Bulb", 
-        "product_description":"", 
+        "product_name":"3 Sound Backup Horn", 
+        "product_description":"test", 
         "product_specification":[ 
             {
                 "component_name": "", 

@@ -1,11 +1,22 @@
+
 {
-    "product_name":"T19", 
     "product_url":"t19", 
     "product_type":"bulbs",
-    "product_description":"", 
-    "product_specification":[ 
-        {
-            
-        }
-    ]
+    "id": { 
+        "product_name":"T19 Bulbs", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "", 
+                "component_value": ""
+            }
+        ]
+    }, 
+    "en": {
+
+
+
+
+
+    } 
 }

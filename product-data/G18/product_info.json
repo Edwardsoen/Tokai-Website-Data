@@ -1,11 +1,22 @@
+
 {
-    "product_name":"G18", 
     "product_url":"g18", 
     "product_type":"bulbs",
-    "product_description":"", 
-    "product_specification":[ 
-        {
-            
-        }
-    ]
+    "id": { 
+        "product_name":"G18 Bulb", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "", 
+                "component_value": ""
+            }
+        ]
+    }, 
+    "en": {
+
+
+
+
+
+    } 
 }

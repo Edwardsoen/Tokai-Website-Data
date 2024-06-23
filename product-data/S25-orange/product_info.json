@@ -1,11 +1,22 @@
+
 {
-    "product_name":"S25 Orange", 
     "product_url":"s25-orange", 
     "product_type":"bulbs",
-    "product_description":"", 
-    "product_specification":[ 
-        {
-            
-        }
-    ]
+    "id": { 
+        "product_name":"S25 Orange Bulb", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "", 
+                "component_value": ""
+            }
+        ]
+    }, 
+    "en": {
+
+
+
+
+
+    } 
 }

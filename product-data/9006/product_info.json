@@ -1,9 +1,9 @@
 
 {
-    "product_url":"h3", 
-    "product_type":"bulbs",
+    "product_url":"9006", 
+    "product_type":"beacon-lights",
     "id": { 
-        "product_name":"H3 Bulb", 
+        "product_name":"5 Inch Beacon Light", 
         "product_description":"", 
         "product_specification":[ 
             {
