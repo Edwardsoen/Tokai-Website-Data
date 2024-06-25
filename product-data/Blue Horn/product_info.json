@@ -3,12 +3,40 @@
     "product_url":"double-color-single-horn", 
     "product_type":"horns",
     "id": { 
-        "product_name":"Blue Single Horn", 
+        "product_name":"Tokai Single Snail Horn SH02-Blue", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "DC 12V"
+            }, 
+            {
+                "component_name": "Current", 
+                "component_value": "2.5A"
+            }, 
+            {
+                "component_name": "Power", 
+                "component_value": "30W"
+            }, 
+            {
+                "component_name": "Sound Level", 
+                "component_value": "110dB±5"
+            }, 
+            {
+                "component_name": "Frequency", 
+                "component_value": "510Hz"
+            }, 
+            {
+                "component_name": "Weight", 
+                "component_value": "186g"
+            }, 
+            {
+                "component_name": "Dimension", 
+                "component_value": "86.8.3x76.3x46.5 mm"
+            }, 
+            {
+                "component_name": "In the Box", 
+                "component_value": "1 piece Tokai Single Snail Horn SH02-Red, Mounting bracket"
             }
         ]
     }, 

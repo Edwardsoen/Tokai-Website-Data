@@ -3,12 +3,44 @@
     "product_url":"super-tone-horn", 
     "product_type":"horns",
     "id": { 
-        "product_name":"Super Tone Horn", 
+        "product_name":"Tokai Super Tone Horn DH01", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V/24V"
+            }, 
+            {
+                "component_name": "Current", 
+                "component_value": "8A"
+            }, 
+            {
+                "component_name": "Power", 
+                "component_value": "30W"
+            }, 
+            {
+                "component_name": "Sound Level", 
+                "component_value": "110dB±5"
+            }, 
+            {
+                "component_name": "Frequency", 
+                "component_value": "335Hz"
+            }, 
+            {
+                "component_name": "Weight", 
+                "component_value": "328g"
+            }, 
+            {
+                "component_name": "Dimension", 
+                "component_value": "121.9x39.7 mm"
+            }, 
+            {
+                "component_name": "In the Box", 
+                "component_value": "1 piece Tokai Super Tone Horn DH01"
+            }, 
+            {
+                "component_name": "Variants", 
+                "component_value": "12 Volts, 24 Volts"
             }
         ]
     }, 

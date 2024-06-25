@@ -3,13 +3,42 @@
     "product_url":"snail-horn", 
     "product_type":"horns",
     "id": { 
-        "product_name":"Snail Horn Plus Relay", 
+        "product_name":"Tokai Snail Horn SH01", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V/24V"
+            }, 
+            {
+                "component_name": "Current", 
+                "component_value": "8A"
+            }, 
+            {
+                "component_name": "Sound Level", 
+                "component_value": "110dB±5"
+            }, 
+            {
+                "component_name": "Frequency", 
+                "component_value": "High 510Hz Low 410Hz"
+            }, 
+            {
+                "component_name": "Weight", 
+                "component_value": "483g"
+            }, 
+            {
+                "component_name": "Radius", 
+                "component_value": "86.1 mm"
+            }, 
+            {
+                "component_name": "In the Box", 
+                "component_value": "1 Set Tokai Snail Horn SH01, Relay , Mounting Bracket"
+            }, 
+            {
+                "component_name": "Variants", 
+                "component_value": "12 Volts, 24 Volts"
             }
+
         ]
     }, 
     "en": {
