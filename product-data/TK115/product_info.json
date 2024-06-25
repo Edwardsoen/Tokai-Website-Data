@@ -3,12 +3,32 @@
     "product_url":"tk115", 
     "product_type":"others",
     "id": { 
-        "product_name":"TK115 Side Lamp", 
+        "product_name":"Tokai TK115 Side Lamp", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "24V"
+            },
+            {
+                "component_name": "Width", 
+                "component_value": "122.6 mm"
+            },
+            {
+                "component_name": "Height", 
+                "component_value": "100 mm"
+            },
+            {
+                "component_name": "Weight", 
+                "component_value": "135g"
+            },
+            {
+                "component_name": "Color Variants", 
+                "component_value": "Red, White, Blue, Green, Yellow"
+            },
+            {
+                "component_name": "In the box", 
+                "component_value": "4 Pieces Tokai TK115 LED Side Lamp"
             }
         ]
     }, 

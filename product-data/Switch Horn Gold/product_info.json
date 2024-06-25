@@ -3,12 +3,28 @@
     "product_url":"switch-horn-gold", 
     "product_type":"horns",
     "id": { 
-        "product_name":"Switch Horn Gold", 
+        "product_name":"Tokai Switch Air Horn AH02", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "24V"
+            },
+            {
+                "component_name": "Diameter", 
+                "component_value": "37.7 mm"
+            },
+            {
+                "component_name": "Height", 
+                "component_value": "80 mm"
+            },
+            {
+                "component_name": "Weight", 
+                "component_value": "223g"
+            },
+            {
+                "component_name": "In the Box", 
+                "component_value": "One Piece Tokai Switch Air Horn AH02"
             }
         ]
     }, 

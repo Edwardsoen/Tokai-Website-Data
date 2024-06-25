@@ -3,12 +3,32 @@
     "product_url":"tk139", 
     "product_type":"bulbs",
     "id": { 
-        "product_name":"TK139 Side Lamp", 
+        "product_name":"Tokai TK139 LED Side Lamp", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "24V"
+            },
+            {
+                "component_name": "Width", 
+                "component_value": "126.3 mm"
+            },
+            {
+                "component_name": "Height", 
+                "component_value": "100 mm"
+            },
+            {
+                "component_name": "Weight", 
+                "component_value": "140g"
+            },
+            {
+                "component_name": "Color Variants", 
+                "component_value": "Red, White, Blue, Green, Yellow"
+            },
+            {
+                "component_name": "In the box", 
+                "component_value": "4 Pieces Tokai TK139 LED Side Lamp"
             }
         ]
     }, 
