@@ -3,12 +3,28 @@
     "product_url":"h11", 
     "product_type":"bulbs",
     "id": { 
-        "product_name":"H11 Bulb", 
+        "product_name":"Tokai H11 Halogen Car Headlight Bulb", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V/24V"
+            },
+            {
+                "component_name": "Wattage", 
+                "component_value": "55-100W"
+            },
+            {
+                "component_name": "Weight", 
+                "component_value": "28.2g"
+            },
+            {
+                "component_name": "Variants", 
+                "component_value": "12V 55W, 12V 100W, 24V 55W, 24V 100W"
+            },
+            {
+                "component_name": "In the box", 
+                "component_value": "Tokai H11 Car Headlight Bulb"
             }
         ]
     }, 

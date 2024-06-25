@@ -3,14 +3,31 @@
     "product_url":"h4", 
     "product_type":"bulbs",
     "id": { 
-        "product_name":"H4 Bulb", 
+        "product_name":"Tokai H4 Halogen Car Headlight Bulb", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V/24V"
+            },
+            {
+                "component_name": "Wattage", 
+                "component_value": "60-130W"
+            },
+            {
+                "component_name": "Weight", 
+                "component_value": "28.2g"
+            },
+            {
+                "component_name": "Variants", 
+                "component_value": "12V 60/55W, 12V 100/90W, 12V 130/90W, 24V 75/70W, 24V 100/90W"
+            },
+            {
+                "component_name": "In the box", 
+                "component_value": "Tokai H4 Car Headlight Bulb"
             }
         ]
+        
     }, 
     "en": {
 

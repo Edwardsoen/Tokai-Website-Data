@@ -3,12 +3,24 @@
     "product_url":"h8", 
     "product_type":"bulbs",
     "id": { 
-        "product_name":"H8 Bulb", 
+        "product_name":"Tokai H8 Halogen Car Headlight Bulb", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V"
+            },
+            {
+                "component_name": "Wattage", 
+                "component_value": "35W"
+            },
+            {
+                "component_name": "Weight", 
+                "component_value": "28.2g"
+            },
+            {
+                "component_name": "In the box", 
+                "component_value": "Tokai H8 Car Headlight Bulb"
             }
         ]
     }, 

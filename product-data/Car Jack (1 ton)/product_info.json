@@ -3,13 +3,14 @@
     "product_url":"car-jack", 
     "product_type":"others",
     "id": { 
-        "product_name":"1 Ton Car Jack", 
+        "product_name":"Tokai 1 Ton Scissor Jack", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Weight", 
+                "component_value": "2000g"
             }
+
         ]
     }, 
     "en": {
