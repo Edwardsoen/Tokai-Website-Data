@@ -3,12 +3,28 @@
     "product_url":"t19", 
     "product_type":"bulbs",
     "id": { 
-        "product_name":"T19 Bulbs", 
+        "product_name":"Tokai P25 T19 Bulb", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V"
+            }, 
+            {
+                "component_name": "Wattage", 
+                "component_value": "30/35W"
+            }, 
+            {
+                "component_name": "Weight", 
+                "component_value": "7g"
+            }, 
+            {
+                "component_name": "Bulb diameter", 
+                "component_value": "19.0 mm"
+            },
+            {
+                "component_name": "Height", 
+                "component_value": "44 mm"
             }
         ]
     }, 

@@ -3,12 +3,32 @@
     "product_url":"t13", 
     "product_type":"bulbs",
     "id": { 
-        "product_name":"T13 Bulb", 
+        "product_name":"Tokai W2.1x9.5D T13 Wedge Bulb", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V"
+            }, 
+            {
+                "component_name": "Wattage", 
+                "component_value": "10W"
+            }, 
+            {
+                "component_name": "Weight", 
+                "component_value": "1g"
+            }, 
+            {
+                "component_name": "Width", 
+                "component_value": "13.0 mm"
+            },
+            {
+                "component_name": "Height", 
+                "component_value": "44 mm"
+            },
+            {
+                "component_name": "Variants", 
+                "component_value": "Clear, Amber"
             }
         ]
     }, 

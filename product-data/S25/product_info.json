@@ -3,12 +3,32 @@
     "product_url":"s25", 
     "product_type":"bulbs",
     "id": { 
-        "product_name":"S25 Bulb", 
+        "product_name":"Tokai S25 BA15S/D Bulb Clear", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V/24V"
+            }, 
+            {
+                "component_name": "Wattage", 
+                "component_value": "21-6W"
+            }, 
+            {
+                "component_name": "Weight", 
+                "component_value": "7g"
+            }, 
+            {
+                "component_name": "Bulb diameter", 
+                "component_value": "25 mm"
+            }, 
+            {
+                "component_name": "Height", 
+                "component_value": "46.6 mm"
+            }, 
+            {
+                "component_name": "Variants", 
+                "component_value": "12 Volts 1 Pin, 12 Volts 2 Pin, 24 Volts 1 Pin, 24 Volts 2 Pin"
             }
         ]
     }, 
