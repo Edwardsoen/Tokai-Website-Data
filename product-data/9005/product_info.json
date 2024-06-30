@@ -7,8 +7,24 @@
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "12V - 30V"
+            },  
+            {
+                "component_name": "Height", 
+                "component_value": "150 mm"
+            }, 
+            {
+                "component_name": "Type", 
+                "component_value": "LED"
+            }, 
+            {
+                "component_name": "Mode", 
+                "component_value": "Strobe & 360 Rotating"
+            }, 
+            {
+                "component_name": "Base Diameter", 
+                "component_value": "110 mm"
             }
         ]
     }, 

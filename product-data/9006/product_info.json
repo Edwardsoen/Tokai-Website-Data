@@ -3,12 +3,28 @@
     "product_url":"9006", 
     "product_type":"beacon-lights",
     "id": { 
-        "product_name":"5 Inch Beacon Light", 
+        "product_name":"Tokai 5 Inch Beacon Light", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Voltage", 
+                "component_value": "10V - 30V"
+            },
+            {
+                "component_name": "Color", 
+                "component_value": "Amber"
+            },
+            {
+                "component_name": "Type", 
+                "component_value": "LED"
+            },
+            {
+                "component_name": "Height", 
+                "component_value": "188 mm"
+            },
+            {
+                "component_name": "Base Diameter", 
+                "component_value": "125 mm"
             }
         ]
     }, 
