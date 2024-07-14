@@ -20,7 +20,7 @@
             },
             {
                 "component_name": "Variants", 
-                "component_value": "12 Volts 4 Pin, 12 Volts 5 Pin, 24 Volts 4 Pin, 24 Volts 5 Pin"
+                "component_value": ["12 Volts 4 Pin", "12 Volts 5 Pin", "24 Volts 4 Pin", "24 Volts 5 Pin"]
             },
             {
                 "component_name": "In the box", 

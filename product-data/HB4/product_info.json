@@ -19,8 +19,8 @@
                 "component_value": "28.2g"
             },
             {
-                "component_name": "Variants", 
-                "component_value": "12V 55W, 12V 100W"
+                "component_name":  "Voltage & Wattage Variants", 
+                "component_value": ["12V 55W", "12V 100W"]
             },
             {
                 "component_name": "In the box", 

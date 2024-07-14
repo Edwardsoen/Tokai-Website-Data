@@ -39,8 +39,8 @@
                 "component_value": "1 piece Tokai Super Tone Horn DH01"
             }, 
             {
-                "component_name": "Variants", 
-                "component_value": "12 Volts, 24 Volts"
+                "component_name": "Voltage Variants", 
+                "component_value": ["12 Volts", "24 Volts"]
             }
         ]
     }, 

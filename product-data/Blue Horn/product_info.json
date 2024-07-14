@@ -36,7 +36,7 @@
             }, 
             {
                 "component_name": "In the Box", 
-                "component_value": "1 piece Tokai Single Snail Horn SH02-Red, Mounting bracket"
+                "component_value": ["1 piece Tokai Single Snail Horn SH02-Red", "Mounting bracket"]
             }
         ]
     }, 

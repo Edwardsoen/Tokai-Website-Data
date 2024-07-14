@@ -20,7 +20,7 @@
             }, 
             {
                 "component_name": "Mode", 
-                "component_value": "Strobe & 360 Rotating"
+                "component_value": ["Strobe",  "360 Rotating"]
             }, 
             {
                 "component_name": "Base Diameter", 

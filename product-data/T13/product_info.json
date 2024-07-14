@@ -27,8 +27,8 @@
                 "component_value": "44 mm"
             },
             {
-                "component_name": "Variants", 
-                "component_value": "Clear, Amber"
+                "component_name": "Color Variants", 
+                "component_value": ["Clear", "Amber"]
             }
         ]
     }, 

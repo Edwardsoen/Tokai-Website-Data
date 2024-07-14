@@ -32,10 +32,8 @@
             }, 
             {
                 "component_name": "In the Box", 
-                "component_value": "1 Piece Tokai 1 Sound Backup Horn BH01"
+                "component_value": ["1 Piece Tokai 1 Sound Backup Horn BH01"]
             }
-            
-            
         ]
     }, 
     "en": {

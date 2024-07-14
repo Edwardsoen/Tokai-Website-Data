@@ -28,7 +28,7 @@
             },
             {
                 "component_name": "Variants", 
-                "component_value": "1 Pin, 2 Pin"
+                "component_value": ["1 Pin", "2 Pin"]
             }
         ]
     }, 

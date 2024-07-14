@@ -28,7 +28,7 @@
             }, 
             {
                 "component_name": "Variants", 
-                "component_value": "12 Volts 1 Pin, 12 Volts 2 Pin, 24 Volts 1 Pin, 24 Volts 2 Pin"
+                "component_value": ["12 Volts 1 Pin", "12 Volts 2 Pin", "24 Volts 1 Pin", "24 Volts 2 Pin"]
             }
         ]
     }, 
