@@ -13,10 +13,13 @@
         ]
     }, 
     "en": {
-
-
-
-
-
+        "product_name":"7 Inch Rectangle HeadLamp", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "", 
+                "component_value": ""
+            }
+        ]
     } 
 }

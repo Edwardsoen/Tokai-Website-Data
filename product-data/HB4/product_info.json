@@ -2,7 +2,7 @@
 {
     "product_url":"hb4", 
     "product_type":"bulbs",
-    "id": { 
+    "en": { 
         "product_name":"Tokai HB4 Halogen Car Headlight Bulb", 
         "product_description":"", 
         "product_specification":[ 
@@ -28,11 +28,31 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": {
+        "product_name": "Bohlam Lampu Depan Mobil Halogen Tokai HB4",
+        "product_description": "", 
+        "product_specification": [
+            {
+                "component_name": "Tegangan",
+                "component_value": "12V"
+            },
+            {
+                "component_name": "Daya",
+                "component_value": "55-100W"
+            },
+            {
+                "component_name": "Berat",
+                "component_value": "28,2g"
+            },
+            {
+                "component_name": "Varian Tegangan & Daya",
+                "component_value": ["12V 55W", "12V 100W"]
+            },
+            {
+                "component_name": "Dalam kotak",
+                "component_value": "Bohlam Lampu Depan Mobil Tokai HB4"
+            }
+        ]
+    }
+    
 }

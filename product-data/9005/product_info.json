@@ -2,7 +2,7 @@
 {
     "product_url":"9005", 
     "product_type":"beacon-lights",
-    "id": { 
+    "en": { 
         "product_name":"5 Inch Beacon Light", 
         "product_description":"", 
         "product_specification":[ 
@@ -28,8 +28,31 @@
             }
         ]
     }, 
-    "en": {
-
+    "id": {
+        "product_name":"Lampu Rotary 5 Inch", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "Voltase", 
+                "component_value": "12V - 30V"
+            },  
+            {
+                "component_name": "Tinggi", 
+                "component_value": "150 mm"
+            }, 
+            {
+                "component_name": "Tipe", 
+                "component_value": "LED"
+            }, 
+            {
+                "component_name": "Mode", 
+                "component_value": ["Kedip",  "Putar"]
+            }, 
+            {
+                "component_name": "Diameter", 
+                "component_value": "110 mm"
+            }
+        ]
 
 
 

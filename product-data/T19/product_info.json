@@ -2,7 +2,7 @@
 {
     "product_url":"t19", 
     "product_type":"bulbs",
-    "id": { 
+    "en": { 
         "product_name":"Tokai P25 T19 Bulb", 
         "product_description":"", 
         "product_specification":[ 
@@ -28,11 +28,31 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": { 
+        "product_name": "Lampu Tokai P25 T19", 
+        "product_description": "", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "12V"
+            }, 
+            {
+                "component_name": "Daya", 
+                "component_value": "30/35W"
+            }, 
+            {
+                "component_name": "Berat", 
+                "component_value": "7g"
+            }, 
+            {
+                "component_name": "Diameter Lampu", 
+                "component_value": "19,0 mm"
+            },
+            {
+                "component_name": "Tinggi", 
+                "component_value": "44 mm"
+            }
+        ]
+    }
+    
 }

@@ -2,7 +2,7 @@
 {
     "product_url":"t13", 
     "product_type":"bulbs",
-    "id": { 
+    "en": { 
         "product_name":"Tokai W2.1x9.5D T13 Wedge Bulb", 
         "product_description":"", 
         "product_specification":[ 
@@ -32,11 +32,35 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": { 
+        "product_name": "Lampu Tokai W2.1x9.5D T13 Wedge", 
+        "product_description": "", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "12V"
+            }, 
+            {
+                "component_name": "Daya", 
+                "component_value": "10W"
+            }, 
+            {
+                "component_name": "Berat", 
+                "component_value": "1g"
+            }, 
+            {
+                "component_name": "Lebar", 
+                "component_value": "13,0 mm"
+            },
+            {
+                "component_name": "Tinggi", 
+                "component_value": "44 mm"
+            },
+            {
+                "component_name": "Varian Warna", 
+                "component_value": ["Clear", "Amber"]
+            }
+        ]
+    }
+    
 }

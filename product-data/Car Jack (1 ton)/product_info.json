@@ -2,7 +2,7 @@
 {
     "product_url":"car-jack", 
     "product_type":"others",
-    "id": { 
+    "en": { 
         "product_name":"Tokai 1 Ton Scissor Jack", 
         "product_description":"", 
         "product_specification":[ 
@@ -13,11 +13,15 @@
 
         ]
     }, 
-    "en": {
+    "id": {
+        "product_name":"Tokai 1 Ton Scissor Jack", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "Berat", 
+                "component_value": "2000g"
+            }
 
-
-
-
-
+        ]
     } 
 }

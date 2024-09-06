@@ -2,7 +2,7 @@
 {
     "product_url":"super-tone-horn", 
     "product_type":"horns",
-    "id": { 
+    "en": { 
         "product_name":"Tokai Super Tone Horn DH01", 
         "product_description":"", 
         "product_specification":[ 
@@ -44,11 +44,47 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id":{ 
+        "product_name": "Klakson Super Tone Tokai DH01", 
+        "product_description": "", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "12V/24V"
+            }, 
+            {
+                "component_name": "Arus", 
+                "component_value": "8A"
+            }, 
+            {
+                "component_name": "Daya", 
+                "component_value": "30W"
+            }, 
+            {
+                "component_name": "Tingkat Suara", 
+                "component_value": "110dB±5"
+            }, 
+            {
+                "component_name": "Frekuensi", 
+                "component_value": "335Hz"
+            }, 
+            {
+                "component_name": "Berat", 
+                "component_value": "328g"
+            }, 
+            {
+                "component_name": "Dimensi", 
+                "component_value": "121,9x39,7 mm"
+            }, 
+            {
+                "component_name": "Dalam Kotak", 
+                "component_value": "1 buah Klakson Super Tone Tokai DH01"
+            }, 
+            {
+                "component_name": "Varian Tegangan", 
+                "component_value": ["12 Volt", "24 Volt"]
+            }
+        ]
+    }
+    
 }

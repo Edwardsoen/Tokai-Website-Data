@@ -2,7 +2,7 @@
 {
     "product_url":"switch-horn-gold", 
     "product_type":"horns",
-    "id": { 
+    "en": { 
         "product_name":"Tokai Switch Air Horn AH02", 
         "product_description":"", 
         "product_specification":[ 
@@ -28,11 +28,30 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id":{ 
+        "product_name": "Klakson Udara Tokai AH02", 
+        "product_description": "", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "24V"
+            },
+            {
+                "component_name": "Diameter", 
+                "component_value": "37,7 mm"
+            },
+            {
+                "component_name": "Tinggi", 
+                "component_value": "80 mm"
+            },
+            {
+                "component_name": "Berat", 
+                "component_value": "223g"
+            },
+            {
+                "component_name": "Dalam Kotak", 
+                "component_value": "Satu Buah Klakson Udara Tokai AH02"
+            }
+        ]
+    }
 }

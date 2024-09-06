@@ -2,7 +2,7 @@
 {
     "product_url":"1-sound-backup-horn", 
     "product_type":"horns",
-    "id": { 
+    "en": { 
         "product_name":"Tokai 1 Sound Backup Horn BH01", 
         "product_description":"", 
         "product_specification":[ 
@@ -36,7 +36,39 @@
             }
         ]
     }, 
-    "en": {
+    "id": {
+        "product_name":"Tokai klakson atret 1 suara BH01", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "Voltase", 
+                "component_value": "12V - 60V"
+            }, 
+            {
+                "component_name": "Current", 
+                "component_value": "0.1 - 0.8A"
+            }, 
+            {
+                "component_name": "Watt", 
+                "component_value": "15W"
+            }, 
+            {
+                "component_name": "Level Suara", 
+                "component_value": "110dB±4"
+            }, 
+            {
+                "component_name": "Berat", 
+                "component_value": "315g"
+            }, 
+            {
+                "component_name": "Dimensi", 
+                "component_value": "65.6x39.8x40.1 mm"
+            }, 
+            {
+                "component_name": "Kelengkapan", 
+                "component_value": ["1 pcs Tokai klakson atret 1 suara BH01"]
+            }
+        ]
 
 
 

@@ -2,7 +2,7 @@
 {
     "product_url":"t20", 
     "product_type":"bulbs",
-    "id": { 
+    "en": { 
         "product_name":"Tokai 1891 T20 Bulb", 
         "product_description":"", 
         "product_specification":[ 
@@ -32,11 +32,34 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": { 
+        "product_name": "Lampu Tokai 1891 T20", 
+        "product_description": "", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "12V"
+            }, 
+            {
+                "component_name": "Daya", 
+                "component_value": "21W"
+            }, 
+            {
+                "component_name": "Berat", 
+                "component_value": "6g"
+            }, 
+            {
+                "component_name": "Diameter Lampu", 
+                "component_value": "19,6 mm"
+            },
+            {
+                "component_name": "Tinggi", 
+                "component_value": "39,6 mm"
+            },
+            {
+                "component_name": "Varian", 
+                "component_value": ["1 Pin", "2 Pin"]
+            }
+        ]
+    }
 }

@@ -2,7 +2,7 @@
 {
     "product_url":"Relay", 
     "product_type":"horns",
-    "id": { 
+    "en": { 
         "product_name":"Tokai Transparent Relay", 
         "product_description":"", 
         "product_specification":[ 
@@ -28,11 +28,30 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": {
+        "product_name": "Relay Transparan Tokai",
+        "product_description": "", 
+        "product_specification": [
+            {
+                "component_name": "Tegangan",
+                "component_value": "12V/24V"
+            },
+            {
+                "component_name": "Berat",
+                "component_value": "16 g"
+            },
+            {
+                "component_name": "Pin",
+                "component_value": "4 Pin/5 Pin"
+            },
+            {
+                "component_name": "Varian",
+                "component_value": ["12 Volt 4 Pin", "12 Volt 5 Pin", "24 Volt 4 Pin", "24 Volt 5 Pin"]
+            },
+            {
+                "component_name": "Dalam Kotak",
+                "component_value": "10 Buah Relay Transparan Tokai"
+            }
+        ]
+    }
 }

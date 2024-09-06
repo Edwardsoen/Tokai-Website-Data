@@ -2,7 +2,7 @@
 {
     "product_url":"s25-orange", 
     "product_type":"bulbs",
-    "id": { 
+    "en": { 
         "product_name":"Tokai S25 BA15S/D Bulb Amber", 
         "product_description":"", 
         "product_specification":[ 
@@ -32,11 +32,35 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": { 
+        "product_name": "Lampu Tokai S25 BA15S/D Amber", 
+        "product_description": "", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "12V/24V"
+            }, 
+            {
+                "component_name": "Daya", 
+                "component_value": "21-6W"
+            }, 
+            {
+                "component_name": "Berat", 
+                "component_value": "7g"
+            }, 
+            {
+                "component_name": "Diameter lampu", 
+                "component_value": "25 mm"
+            }, 
+            {
+                "component_name": "Tinggi", 
+                "component_value": "46,6 mm"
+            }, 
+            {
+                "component_name": "Varian", 
+                "component_value": ["12 Volt 1 Pin", "12 Volt 2 Pin", "24 Volt 1 Pin", "24 Volt 2 Pin"]
+            }
+        ]
+    }
+    
 }

@@ -2,7 +2,7 @@
 {
     "product_url":"tk115", 
     "product_type":"others",
-    "id": { 
+    "en": { 
         "product_name":"Tokai TK115 Side Lamp", 
         "product_description":"", 
         "product_specification":[ 
@@ -32,11 +32,35 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": { 
+        "product_name": "Lampu Samping Tokai TK115", 
+        "product_description": "", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "24V"
+            },
+            {
+                "component_name": "Lebar", 
+                "component_value": "122,6 mm"
+            },
+            {
+                "component_name": "Tinggi", 
+                "component_value": "100 mm"
+            },
+            {
+                "component_name": "Berat", 
+                "component_value": "135g"
+            },
+            {
+                "component_name": "Varian Warna", 
+                "component_value": ["Merah", "Putih", "Biru", "Hijau", "Kuning"]
+            },
+            {
+                "component_name": "Dalam Kotak", 
+                "component_value": "4 Buah Lampu Samping Tokai TK115"
+            }
+        ]
+    }
+    
 }

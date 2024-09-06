@@ -1,0 +1,25 @@
+
+{
+    "product_url":"g18", 
+    "product_type":"bulbs",
+    "en": { 
+        "product_name":"Tokai Switch Power Window", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "Weight", 
+                "component_value": "5 g"
+            }
+        ]
+    }, 
+    "id": { 
+        "product_name":"Tokai Switch Power Window", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "Berat", 
+                "component_value": "5 g"
+            }
+        ]
+    }
+}

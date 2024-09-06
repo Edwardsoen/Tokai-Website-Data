@@ -2,7 +2,7 @@
 {
     "product_url":"9006", 
     "product_type":"beacon-lights",
-    "id": { 
+    "en": { 
         "product_name":"Tokai 5 Inch Beacon Light", 
         "product_description":"", 
         "product_specification":[ 
@@ -28,11 +28,30 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
+    "id": {
+        "product_name":"Tokai Warning Light 5 Inch", 
+        "product_description":"", 
+        "product_specification":[ 
+            {
+                "component_name": "Voltase", 
+                "component_value": "10V - 30V"
+            },
+            {
+                "component_name": "Warna", 
+                "component_value": "Amber"
+            },
+            {
+                "component_name": "Tipe", 
+                "component_value": "LED"
+            },
+            {
+                "component_name": "Tinggi", 
+                "component_value": "188 mm"
+            },
+            {
+                "component_name": "Diameter", 
+                "component_value": "125 mm"
+            }
+        ]
     } 
 }

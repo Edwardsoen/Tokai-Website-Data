@@ -2,7 +2,7 @@
 {
     "product_url":"translucent-snail-horn-red", 
     "product_type":"horns",
-    "id": { 
+    "en": { 
        "product_name":"Tokai Translucent Snail Horn SH03-Red", 
         "product_description":"Tokai Translucent Snail Horn SH03-Red", 
         "product_specification":[ 
@@ -40,11 +40,43 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": { 
+        "product_name": "Klakson Keong Transparan Tokai SH03-Merah", 
+        "product_description": "Klakson Keong Transparan Tokai SH03-Merah", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "12V"
+            }, 
+            {
+                "component_name": "Arus", 
+                "component_value": "2,5A"
+            }, 
+            {
+                "component_name": "Daya", 
+                "component_value": "30W"
+            }, 
+            {
+                "component_name": "Tingkat Suara", 
+                "component_value": "110dB±5"
+            }, 
+            {
+                "component_name": "Frekuensi", 
+                "component_value": "Tinggi 510Hz Rendah 410Hz"
+            }, 
+            {
+                "component_name": "Berat", 
+                "component_value": "494g"
+            }, 
+            {
+                "component_name": "Radius", 
+                "component_value": "86,7 mm"
+            }, 
+            {
+                "component_name": "Dalam Kotak", 
+                "component_value": ["1 Set Klakson Keong Transparan Tokai SH03-Merah", "Bracket Montase"]
+            }
+        ]
+    }
+    
 }

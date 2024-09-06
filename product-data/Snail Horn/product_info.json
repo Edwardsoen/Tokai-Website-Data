@@ -2,7 +2,7 @@
 {
     "product_url":"snail-horn", 
     "product_type":"horns",
-    "id": { 
+    "en": { 
         "product_name":"Tokai Snail Horn SH01", 
         "product_description":"", 
         "product_specification":[ 
@@ -40,11 +40,42 @@
             }
         ]
     }, 
-    "en": {
-
-
-
-
-
-    } 
+    "id": { 
+        "product_name": "Klakson Keong Tokai SH01", 
+        "product_description": "", 
+        "product_specification": [ 
+            {
+                "component_name": "Tegangan", 
+                "component_value": "12V/24V"
+            }, 
+            {
+                "component_name": "Arus", 
+                "component_value": "8A"
+            }, 
+            {
+                "component_name": "Tingkat Suara", 
+                "component_value": "110dB±5"
+            }, 
+            {
+                "component_name": "Frekuensi", 
+                "component_value": "Tinggi 510Hz Rendah 410Hz"
+            }, 
+            {
+                "component_name": "Berat", 
+                "component_value": "483g"
+            }, 
+            {
+                "component_name": "Diameter", 
+                "component_value": "86,1 mm"
+            }, 
+            {
+                "component_name": "Varian", 
+                "component_value": ["12 Volt", "24 Volt"]
+            },
+            {
+                "component_name": "Dalam Kotak", 
+                "component_value": ["1 Set Klakson Siput Tokai SH01", "Relay", "Bracket Montase"]
+            }
+        ]
+    }
 }
