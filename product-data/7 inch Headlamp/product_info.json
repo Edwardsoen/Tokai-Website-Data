@@ -3,22 +3,38 @@
     "product_url":"7-inch-rectangle-headlamp", 
     "product_type":"others",
     "id": { 
-        "product_name":"7 Inch Rectangle HeadLamp", 
+        "product_name":"Tokai 7 Inch Rectangle HeadLamp", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Weight", 
+                "component_value": "650g"
+            }, 
+            { 
+                "component_name": "Height", 
+                "component_value": "138.3mm"
+            }, 
+            { 
+                "component_name": "Width", 
+                "component_value": "200mm"
             }
         ]
     }, 
     "en": {
-        "product_name":"7 Inch Rectangle HeadLamp", 
+        "product_name":"Head Lamp 7 Inch Tokai", 
         "product_description":"", 
         "product_specification":[ 
             {
-                "component_name": "", 
-                "component_value": ""
+                "component_name": "Berat", 
+                "component_value": "650g"
+            }, 
+            { 
+                "component_name": "Tinggi", 
+                "component_value": "138.3mm"
+            }, 
+            { 
+                "component_name": "Lebar", 
+                "component_value": "200mm"
             }
         ]
     } 

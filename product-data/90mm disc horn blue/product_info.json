@@ -2,60 +2,64 @@
 {
     "product_url":"90mm-disc-horn-blue", 
     "product_type":"horns",
-    "id": { 
+    "en": { 
         "product_name":"Tokai 90mm disc horn Blue", 
         "product_description":"", 
         "product_specification":[ 
             {
                 "component_name": "Voltage", 
-                "component_value": "12V/24V"
+                "component_value": "12V"
             },
             {
-                "component_name": "Wattage", 
-                "component_value": "10W"
+                "component_name": "Frequency", 
+                "component_value": "435hz"
+            },
+            {
+                "component_name": "Sound Level", 
+                "component_value": "110db"
+            },
+            {
+                "component_name": "Diameter", 
+                "component_value": "90mm"
             },
             {
                 "component_name": "Weight", 
-                "component_value": "5 g"
+                "component_value": "220g"
             },
             {
-                "component_name": "Bulb Diameter", 
-                "component_value": "18.6 mm"
-            },
-            {
-                "component_name": "Height", 
-                "component_value": "35 mm"
+                "component_name": "In The Box", 
+                "component_value": ["1 Piece Tokai 90mm horn", "Mounting Bracket"]
             }
         ]
     }, 
-    "en": {
-        "product_name":"Tokai BA15S G18 67 Bulb", 
+    "id": {
+        "product_name":"Tokai 90mm disc horn Biru", 
         "product_description":"", 
-        "product_specification":[ 
+        "product_specification":[
             {
-                "component_name": "Voltage", 
-                "component_value": "12V/24V"
+                "component_name": "Tegangan", 
+                "component_value": "12V"
             },
             {
-                "component_name": "Wattage", 
-                "component_value": "10W"
+                "component_name": "Frekuensi", 
+                "component_value": "435hz"
             },
             {
-                "component_name": "Weight", 
-                "component_value": "5 g"
+                "component_name": "Tingkat Suara", 
+                "component_value": "110db"
             },
             {
-                "component_name": "Bulb Diameter", 
-                "component_value": "18.6 mm"
+                "component_name": "Diameter", 
+                "component_value": "90mm"
             },
             {
-                "component_name": "Height", 
-                "component_value": "35 mm"
+                "component_name": "Berat", 
+                "component_value": "220g"
+            },
+            {
+                "component_name": "Di Dalam Kotak", 
+                "component_value": ["1 Buah Klakson Tokai 90mm", "Bracket Pemasangan"]
             }
         ]
-
-
-
-
     } 
 }

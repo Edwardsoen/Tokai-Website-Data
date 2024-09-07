@@ -12,7 +12,7 @@ for i in os.listdir("product-data"):
             file_name = ii
             try: 
                 with Image.open(os.path.join(path, i, ii)) as img:
-                    img.thumbnail((250, 250), Image.ANTIALIAS)
+                    img.thumbnail((500, 500), Image.ANTIALIAS)
                     img.save(os.path.join(path, i, ii), "JPEG")
                     print("done :" + ii)
             except IOError: 

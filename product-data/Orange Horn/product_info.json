@@ -1,9 +1,9 @@
 
 {
-    "product_url":"double-color-blue-horn", 
+    "product_url":"double-color-orange-horn", 
     "product_type":"horns",
     "en": { 
-        "product_name":"Tokai Single Snail Horn SH02-Blue", 
+        "product_name":"Tokai Single Snail Horn SH02-Orange", 
         "product_description":"", 
         "product_specification":[ 
             {
@@ -41,7 +41,7 @@
         ]
     }, 
     "id": {
-        "product_name":"Tokai Klakson Keong Single SH02-Blue", 
+        "product_name":"Tokai Klakson Keong Single SH02-Orange", 
         "product_description":"", 
         "product_specification":[ 
             {
@@ -73,8 +73,8 @@
                 "component_value": "86.8.3x76.3x46.5 mm"
             }, 
             {
-                "component_name": "In the Box", 
-                "component_value": ["1 piece Tokai Single Snail Horn SH02-Red", "Mounting bracket"]
+                "component_name": "Di dalam kotak", 
+                "component_value": ["1 piece Tokai Single Snail Horn SH02-Orange", "Mounting bracket"]
             }
         ]
     } 
