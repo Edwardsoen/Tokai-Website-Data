@@ -2,7 +2,7 @@
 {
     "product_url":"7-inch-rectangle-headlamp", 
     "product_type":"others",
-    "id": { 
+    "en": { 
         "product_name":"Tokai 7 Inch Rectangle HeadLamp", 
         "product_description":"", 
         "product_specification":[ 
@@ -20,7 +20,7 @@
             }
         ]
     }, 
-    "en": {
+    "id": {
         "product_name":"Head Lamp 7 Inch Tokai", 
         "product_description":"", 
         "product_specification":[ 

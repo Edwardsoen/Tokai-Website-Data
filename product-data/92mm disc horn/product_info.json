@@ -2,7 +2,7 @@
 {
     "product_url":"92mm-disc-horn-black", 
     "product_type":"horns",
-    "id": { 
+    "en": { 
         "product_name":"Tokai 92mm disc horn Black", 
         "product_description":"", 
         "product_specification":[ 
@@ -28,7 +28,7 @@
             }
         ]
     }, 
-    "en": {
+    "id": {
         "product_name":"Tokai 92mm disc horn Hitam", 
         "product_description":"", 
         "product_specification":[ 
